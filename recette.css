@@ -1,0 +1,110 @@
+*{
+  overflow: visible;
+}
+Body   {
+    background-color: #8BA1BB;
+    font-family: Arial;
+  }
+  P.Cate {
+    background-color: black;
+    color: white;
+    display:inline-block;
+    text-align: center;
+    padding: 10px;
+    margin-left: 45%;
+    margin-right: 55%;
+    margin-bottom: -60px;
+  }
+.Contenu{
+background-color: white;
+margin-top: 0;
+margin-left: 30px;
+margin-right: 30px;
+box-shadow: 20px 20px 50px grey;
+
+}
+.separateur{
+background-color: GRAY;
+height: 2px;
+width: 100px;
+margin-left: 45%;
+margin-right: 55%;
+
+
+}
+h1{
+margin-top: 0;
+text-align: center;
+} 
+h2{
+  margin-left: 10px;
+  margin-top: 20px;
+  margin-right: 10px;
+  text-transform: uppercase;
+  border-bottom: solid gray;
+}
+p {
+text-align: center;
+}
+
+div.info{
+position: relative;
+margin-left: 30px;
+margin-right: 30px;
+
+}
+table.info{
+position: absolute;
+bottom: 0;
+width: 100%;
+background-color: #6C829DC0;
+color: white;
+text-align: center;
+
+
+}
+.ing{
+border: solid gray;
+padding: 10px;
+/*margin-top: 20px;
+margin-bottom: 20px;*/
+
+}
+.centre{
+
+text-align: center;
+width: 100%;
+display: block;
+margin-left: auto;
+margin-right: auto;
+
+
+}
+div.colonne1{
+  text-align: center;
+  width: 45%;
+  display: inline-block;
+  margin-left: 10px;
+  margin-right: 10px;
+  
+}
+div.colonne2{
+  text-align: center;
+  float: right;
+  width: 45%;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.prep{
+background-color: #6C829DC0;
+font-size:14px ;
+height: 10px;
+width: 10px;
+padding: 15px;
+border-radius: 50%;
+color: white;
+vertical-align: top;
+
+line-height: 10px;
+}
